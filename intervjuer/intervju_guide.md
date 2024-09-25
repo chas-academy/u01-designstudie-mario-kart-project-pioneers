@@ -2,8 +2,10 @@
 
 ## 1. Definiera målgruppen
 Vi arbetar med två målgrupper:
-- **Personer som aldrig har spelat diskgolf** – potentiella nybörjare som vill lära sig mer om sporten.
-- **Personer som spelar diskgolf regelbundet** – erfarna spelare som använder webbplatser för att hitta information om banor, turneringar etc.
+
+- **Nyfikna för discgolf** – personer som aldrig har spelat diskgolf men har ett intresse eller nyfikenhet för sporten. Dessa individer kan vara potentiella nybörjare som vill ha mer information och vägledning innan de provar på att spela.
+
+- **Erfarna spelare** – individer som har spelat diskgolf tidigare och söker information om banor, turneringar och andra relaterade ämnen. Denna grupp har en förståelse för sporten och kan ge värdefulla insikter om sina behov och preferenser.
 
 Vi använder två separata intervjumallar för respektive målgrupp, vilket hjälper oss att ställa relevanta frågor och få värdefulla insikter.
 
@@ -29,11 +31,12 @@ Vi använder insikterna för att skapa **user stories** och **personas** som und
 
 ---
 
-## Intervjumall för nybörjare (aldrig spelat diskgolf)
+## Intervjumall för nybörjare (nyfikna på discgolf)
 
 1. **Introduktion**
    - Vad vet du om diskgolf?
-   - Har du någonsin övervägt att prova på diskgolf? Varför/varför inte?
+   - (Har du någonsin övervägt att prova på diskgolf? Varför/varför inte?)
+   - Vad är det som har väckt din nyfikenhet för sporten?
 
 2. **Intresse och förväntningar**
    - Vad skulle kunna motivera dig att prova sporten?
@@ -42,31 +45,63 @@ Vi använder insikterna för att skapa **user stories** och **personas** som und
 
 3. **Behov**
    - Vilken typ av resurser skulle hjälpa dig att komma igång (instruktionsvideor, guider, nybörjarbanor)?
-   - Hur skulle du vilja upptäcka banor eller event i ditt område?
+   - Hur skulle du vilja upptäcka nya banor?
+  
+4. **Webbplatsens funktioner**
+   - Vad skulle du vilja se som primärfunktion för en webbplats om discgolf?
+   - Vilka funktioner skulle du vilja se på en dedikerad diskgolf-webbplats? (t.ex. kartor, forum, evenemangsöversikter)?
+   - Vilken information skulle vara mest värdefull för dig på en diskgolf-webbplats? (t.ex. banrecensioner, tävlingar, strategier)?
+   - Hur skulle du använda informationen på hemsidan?
+   - Hur skulle du vilja upptäcka nya banor?
+   - Hur skulle du vilja bli meddelad när en nyhet eller ny bana kommer upp?
+   - Finns det några webbplatser inom sport, spel eller andra relaterade områden som du tycker är bra? Vad uppskattar du med dem?
 
-4. **Användning av webbplatser**
+5. **Användning av webbplatser**
    - Hur letar du vanligtvis efter ny information om aktiviteter du vill prova?
    - Vad tycker du gör en webbplats användarvänlig när du är nybörjare inom en aktivitet?
+  
+6. **Allmänna frågor**
+   - Vad skulle få dig att återvända till webbplatsen regelbundet?
+   - Vad skulle få dig att rekommendera webbplatsen till andra spelare?
+   - Har du något annat att lägga till utöver det jag frågat dig idag?
 
 ---
 
-## Intervjumall för erfarna spelare (spelar diskgolf regelbundet)
+## Intervjumall för erfarna spelare (har spelat diskgolf)
 
 1. **Introduktion**
    - Hur länge har du spelat diskgolf?
-   - Varför började du spela?
+   - Vad fick dig att börja spela?
+   - Vad är det bästa med diskgolf för dig?
 
-2. **Användarupplevelse**
-   - Vilken information söker du på diskgolf-relaterade webbplatser?
-   - Använder du webbplatser för att hitta nya banor, turneringar eller resultat? Om ja, vad tycker du om de nuvarande resurserna?
+2. **Intresse och förväntningar**
+   - Vilka verktyg har du använt tidigare för att hitta information om diskgolf?
+   - Vad har du tyckt om de verktyg du har använt?
+   - Finns det något du saknar i de verktyg du använder idag?
+   - Har du några favoritverktyg eller webbplatser som du rekommenderar? Vad uppskattar du med dem?
 
 3. **Behov**
-   - Vilka funktioner skulle du vilja se på en dedikerad diskgolf-webbplats?
-   - Hur använder du digitala verktyg (som appar eller sajter) för att förbättra din upplevelse som spelare?
+   - Hur skulle du vilja upptäcka nya banor?
 
-4. **Utmaningar och förbättringar**
+4. **Webbplatsens funktioner**
+   - Vad skulle du vilja se som primärfunktion för en webbplats om discgolf?
+   - Vilka funktioner skulle du vilja se på en dedikerad diskgolf-webbplats? (t.ex. kartor, forum, evenemangsöversikter)?
+   - Vilken information skulle vara mest värdefull för dig på en diskgolf-webbplats? (t.ex. banrecensioner, tävlingar, strategier, instruktionsvideor)?
+   - Hur skulle du använda informationen på hemsidan?
+   - Hur skulle du vilja upptäcka nya banor?
+   - Hur skulle du vilja bli meddelad när en nyhet eller ny bana kommer upp?
+   - Finns det några webbplatser inom sport, spel eller andra relaterade områden som du tycker är bra? Vad uppskattar du med dem?
+
+5. **Användning av webbplatser**
+   - Hur letar du vanligtvis efter ny information om diskgolf och relaterade aktiviteter?
+   - Vilka faktorer gör en webbplats användarvänlig enligt dig, särskilt inom sport eller spel?
+
+6. **Allmänna frågor**
    - Finns det något du tycker saknas på befintliga diskgolf-sajter eller appar?
    - Hur skulle du beskriva en idealisk webbplats för diskgolf?
+   - Vad skulle få dig att återvända till webbplatsen regelbundet?
+   - Vad skulle få dig att rekommendera webbplatsen till andra spelare?
+   - Har du något annat att lägga till utöver det jag frågat dig idag?
 
 ---
 
