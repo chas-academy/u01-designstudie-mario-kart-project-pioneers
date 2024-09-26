@@ -1,9 +1,4 @@
-## Intervjumall för nybörjare (nyfikna på discgolf)
-
 ### Johannes är i målgruppen för erfarna spelare.
-
-
-## Intervjumall för erfarna spelare (har spelat diskgolf)
 
 1. **Introduktion**
    - Hur länge har du spelat diskgolf?
