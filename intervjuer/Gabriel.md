@@ -1,4 +1,4 @@
-# Intervju med Gabriel (25 år)
+# Intervju med Gabriel (man, 25 år, student, har inte barn, Stockholm)
 
 Gabriel är i målgruppen **nyfikna för discgolf**, vilket innebär att han inte har spelat discgolf tidigare men är intresserad av att prova på. Nedan är en transkribering av intervjun med honom.
 
