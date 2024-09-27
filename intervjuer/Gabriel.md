@@ -1,4 +1,4 @@
-# Intervju med Gabriel
+# Intervju med Gabriel (25 år)
 
 Gabriel är i målgruppen **nyfikna för discgolf**, vilket innebär att han inte har spelat discgolf tidigare men är intresserad av att prova på. Nedan är en transkribering av intervjun med honom.
 
