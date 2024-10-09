@@ -62,6 +62,21 @@ De första skisserna och layouts gav möjligheten till alla deltagare i gruppen 
 
 **6\. Visuell design**
 
+### Typsnitt
+
+| Text | Typsnitt | Tjocklek | pixel |
+| :---: | :---: | :---: | ---: |
+| Rubrik: | Montserrat | Medium | 24 |
+| Underrubrik: | Lato | Bold | 20 |
+| Brödtext: | Lato | Regular | 16 |
+
+### Färgpalett
+
+| Rubrik | Underrubrik | Brödtext | Bakgrundsfärg | Stroke |
+| :---: | :---:| :---: |:---: |:---: |
+| #9E6666 | #9E6666 | #200707 | #A08B6C; Hex 15% | #D8B0B0; Hex 100%
+
+
 **7\. Responsiv design**
 
 **8\. Teknisk implementering**
