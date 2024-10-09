@@ -62,9 +62,10 @@ De första skisserna och layouts gav möjligheten till alla deltagare i gruppen 
 
 **6\. Visuell design**
 
+Processen för att besluta om typsnitt gjordes genom research av vad som anses vara lättlästa, tydliga och vanliga fonttyper eftersom i användervänlighet faller även igenkänningsfaktorn in. Enligt [Statisk, framtagen av google,](https://kinsta.com/se/blog/basta-google-fonts/) så finns det några typsnitt som anses att föredra, beslutet föll därför på följande för att skapa en design som har modern känsla men även är lätta att känna igen och läsa.
 ### Typsnitt
 
-| Text | Typsnitt | Tjocklek | pixel |
+| _Text_ | _Typsnitt_ | _Tjocklek_ | _pixel_ |
 | :---: | :---: | :---: | ---: |
 | Rubrik: | Montserrat | Medium | 24 |
 | Underrubrik: | Lato | Bold | 20 |
@@ -72,7 +73,7 @@ De första skisserna och layouts gav möjligheten till alla deltagare i gruppen 
 
 ### Färgpalett
 
-| Rubrik | Underrubrik | Brödtext | Bakgrundsfärg | Stroke |
+| _Rubrik_ | _Underrubrik_ | _Brödtext_ | _Bakgrundsfärg_ | _Stroke_ |
 | :---: | :---:| :---: |:---: |:---: |
 | #9E6666 | #9E6666 | #200707 | #A08B6C; Hex 15% | #D8B0B0; Hex 100%
 
