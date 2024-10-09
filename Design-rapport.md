@@ -72,6 +72,7 @@ Processen för att besluta om typsnitt gjordes genom research av vad som anses v
 | Brödtext: | Lato | Regular | 16 |
 
 ### Färgpalett
+Inspirationen för färgerna på hemsidan är att framföra naturens färger från en discgolfbana med mjuka och varma strokes för att uppmuntra användaren att klicka sig runt på sidan.
 
 | _Rubrik_ | _Underrubrik_ | _Brödtext_ | _Bakgrundsfärg_ | _Stroke_ |
 | :---: | :---:| :---: |:---: |:---: |
