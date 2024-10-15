@@ -63,7 +63,7 @@ De första skisserna och layouts gav möjligheten till alla deltagare i gruppen 
 **6\. Visuell design**
 
 Processen för att besluta om typsnitt gjordes genom research av vad som anses vara lättlästa, tydliga och vanliga fonttyper eftersom i användervänlighet faller även igenkänningsfaktorn in. Enligt [Statisk, framtagen av google,](https://kinsta.com/se/blog/basta-google-fonts/) så finns det några typsnitt som anses att föredra, beslutet föll därför på följande för att skapa en design som har modern känsla men även är lätta att känna igen och läsa.
-### Typsnitt
+### Typsnitt: Mobile
 
 | _Text_ | _Typsnitt_ | _Tjocklek_ | _pixel_ |
 | :---: | :---: | :---: | ---: |
@@ -71,7 +71,15 @@ Processen för att besluta om typsnitt gjordes genom research av vad som anses v
 | Underrubrik: | Lato | Bold | 20 |
 | Brödtext: | Lato | Regular | 16 |
 
-### Färgpalett
+### Typsnitt: Desktop
+
+| _Text_ | _Typsnitt_ | _Tjocklek_ | _pixel_ |
+| :---: | :---: | :---: | ---: |
+| Rubrik: | Montserrat | Bold | 85 |
+| Underrubrik: | Lato | Bold | 70 |
+| Brödtext: | Lato | Regular | 30 |
+
+### Färgpalett: Desktop, Mobile
 Inspirationen för färgerna på hemsidan är att framföra naturens färger från en discgolfbana med mjuka och varma strokes för att uppmuntra användaren att klicka sig runt på sidan.
 
 | _Rubrik_ | _Underrubrik_ | _Brödtext_ | _Bakgrundsfärg_ | _Stroke_ |
