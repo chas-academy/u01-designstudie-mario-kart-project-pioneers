@@ -43,11 +43,6 @@ _"Let's-a-go!"_
 
 # Mötesanteckningar: Kombinerat Sprint Review och Retrospective möte
 
-**Datum:** [Datum för mötet]  
-**Tid:** [Tid för mötet]  
-**Plats:** [Plats för mötet]  
-**Närvarande:** [Deltagare]
-
 ## 1. Stämma av Agendan
 
 - Ingen justering av agendan behövdes.
