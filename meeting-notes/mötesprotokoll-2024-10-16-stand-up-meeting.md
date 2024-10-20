@@ -1,7 +1,7 @@
 ![Mario Kart Image](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/mario-kart-64-fan-project-lets-gamers-play-racing-game-with-hd-graphics.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5)
 _"Let's-a-go!"_
 
-# Mötesprotokoll - 9 oktober 2024
+# Mötesprotokoll - 16 oktober 2024
 
 **Tid:** 11:00 - 12:00  
 **Närvarande:** Jelena, Joakim (Scrum Master), Tina (Produktägare), Viktor, William (Figma-ansvarig)
