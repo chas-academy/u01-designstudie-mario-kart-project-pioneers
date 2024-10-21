@@ -86,7 +86,7 @@ Inspirationen för färgerna på hemsidan är att framföra naturens färger fr�
 | :---: | :---:| :---: |:---: |:---: |
 | #9E6666 | #9E6666 | #200707 | #A08B6C; Hex 15% | #D8B0B0; Hex 100%
 
-**7\. Resurser**
+### Resurser
 
 Vi har alla valt att använda en mängd olika bilder och ikoner för vår design som framhäver den typ av sida vi vill skapa.
 
@@ -97,12 +97,12 @@ Vi har alla valt att använda en mängd olika bilder och ikoner för vår design
 | Youtube ikon | iconify | Footer |
 | Instagram ikon | iconify | Footer |
 
-**8\. Responsiv design**
+**7\. Responsiv design**
 
-**9\. Teknisk implementering**
+**8\. Teknisk implementering**
 
-**10\. Slutsatser och framtida utveckling**
+**9\. Slutsatser och framtida utveckling**
 
-**11\. Bilagor**
+**10\. Bilagor**
 
 **Sammanfattning**:
