@@ -97,6 +97,15 @@ Vi har alla valt att använda en mängd olika bilder och ikoner för vår design
 | Youtube ikon | iconify | Footer |
 | Instagram ikon | iconify | Footer |
 
+### Persona Design
+
+Vi bestämde oss för att modifiera en mall från figma community och anpassade den till våra respektive personas. Vi använde
+samma färg- och bakgrundstema i designen som för själva hemsidan men modifierade den första sektionens bakgrundsfärg för en snyggare styling.
+
+| Bakgrundsfärg 1 | Bakgrundsfärg 2 | Text/Ikon Färg |
+|:---|:---:|---:|
+| #A08B6C 30% | #A08B6C 15% | #9E6666 100% |
+
 **7\. Responsiv design**
 
 **8\. Teknisk implementering**
