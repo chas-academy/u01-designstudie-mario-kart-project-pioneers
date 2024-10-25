@@ -82,9 +82,13 @@ Processen för att besluta om typsnitt gjordes genom research av vad som anses v
 ### Färgpalett: Desktop, Mobile
 Inspirationen för färgerna på hemsidan är att framföra naturens färger från en discgolfbana med mjuka och varma strokes för att uppmuntra användaren att klicka sig runt på sidan.
 
-| _Rubrik_ | _Underrubrik_ | _Brödtext_ | _Bakgrundsfärg_ | _Stroke_ |
-| :---: | :---:| :---: |:---: |:---: |
-| #9E6666 | #9E6666 | #200707 | #A08B6C; Hex 15% | #D8B0B0; Hex 100%
+| _Rubrik_ | _Underrubrik_ | _Brödtext_ | _Bakgrundsfärg_ | _Bakgrundsbild_ | _Stroke_ |
+| :---: | :---:| :---: |:---: |:---: |:---: |
+| #9E6666 | #9E6666 | #200707 | #A08B6C; Hex 15% | Screenshot Google Maps | #D8B0B0; Hex 100%
+
+### Designavikelser
+
+För att dom olika elementen i headern och footern skulle få plats och se bättre ut designmässigt med övriga element gjordes en del avikelser i fontstorleken i dessa båda sektioner.
 
 ### Resurser
 
@@ -92,11 +96,8 @@ Vi har alla valt att använda en mängd olika bilder och ikoner för vår design
 
 | Resurstyp | Källa | Sektion |
 |:---|:---:|---:|
-| Bakgrundsbild | Screenshot Google Maps | Main |
-| Facebook ikon | iconify | Footer |
-| Youtube ikon | iconify | Footer |
-| Instagram ikon | iconify | Footer |
-
+| ikoner | iconify | Footer |
+| bilder | Pixbay | Regler |
 ### Persona Design
 
 Vi bestämde oss för att modifiera en mall från figma community och anpassade den till våra respektive personas. Vi använde
@@ -107,6 +108,9 @@ samma färg- och bakgrundstema i designen som för själva hemsidan men modifier
 | #A08B6C 30% | #A08B6C 15% | #9E6666 100% |
 
 **7\. Responsiv design**
+
+Samtliga sidor som vi skapat har anpassats till bådes desktop (1920x1080) och mobil (390x844) där vi valde att göra 
+en prototyp av varje version för en mer responsiv design.
 
 **8\. Teknisk implementering**
 
