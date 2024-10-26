@@ -86,7 +86,7 @@ Inspirationen för färgerna på hemsidan är att framföra naturens färger fr�
 
 ### Designavikelser
 
-För att dom olika elementen i headern och footern skulle få plats och se bättre ut designmässigt med övriga element gjordes en del avikelser i fontstorleken i dessa båda sektioner.
+För att dom olika elementen i de olika sektionerna skulle få plats och se bättre ut designmässigt med övriga element gjordes en del avikelser i fontstorleken i vissa sektioner på sidan.
 
 ### Resurser
 
