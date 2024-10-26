@@ -74,7 +74,7 @@ Processen för att besluta om typsnitt gjordes genom research av vad som anses v
 | _Text_ | _Typsnitt_ | _Tjocklek_ | _pixel_ |
 | :---: | :---: | :---: | ---: |
 | Rubrik: | Montserrat | Bold | 85 |
-| Underrubrik: | Lato | Bold | 70 |
+| Underrubrik: | Lato | Bold | 64 |
 | Brödtext: | Lato | Regular | 30 |
 
 ### Färgpalett: Desktop, Mobile
