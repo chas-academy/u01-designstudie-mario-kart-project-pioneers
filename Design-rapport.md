@@ -58,9 +58,7 @@ Research av konkurrenter gjordes främst genom att undersöka andra discgolf sid
 De första skisserna och layouts gav möjligheten till alla deltagare i gruppen att dela tankar och designideér. Dessa skisser samlades i ett gemensamt figma project.
 [Figma Design skiss](https://www.figma.com/design/3ln7XZkD6Rl0oKcEPrIQeF/Design-skisser?node-id=71-840&t=uIMYq3WZNQdtTHlY-1)
 
-**5\. Interaktionsdesign**
-
-**6\. Visuell design**
+**5\. Visuell design**
 
 Processen för att besluta om typsnitt gjordes genom research av vad som anses vara lättlästa, tydliga och vanliga fonttyper eftersom i användervänlighet faller även igenkänningsfaktorn in. Enligt [Statisk, framtagen av google,](https://kinsta.com/se/blog/basta-google-fonts/) så finns det några typsnitt som anses att föredra, beslutet föll därför på följande för att skapa en design som har modern känsla men även är lätta att känna igen och läsa.
 ### Typsnitt: Mobile
@@ -107,15 +105,7 @@ samma färg- och bakgrundstema i designen som för själva hemsidan men modifier
 |:---|:---:|---:|
 | #A08B6C 30% | #A08B6C 15% | #9E6666 100% |
 
-**7\. Responsiv design**
+**6\. Responsiv design**
 
 Samtliga sidor som vi skapat har anpassats till bådes desktop (1920x1080) och mobil (390x844) där vi valde att göra 
 en prototyp av varje version för en mer responsiv design.
-
-**8\. Teknisk implementering**
-
-**9\. Slutsatser och framtida utveckling**
-
-**10\. Bilagor**
-
-**Sammanfattning**:
